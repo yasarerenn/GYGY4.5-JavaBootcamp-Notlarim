@@ -1,6 +1,6 @@
 package com.turkcell;
 
-public class degiskenler {
+public class Hafta_1_1_degiskenler {
     public static void main(String[] args) {
         // Yorum satırı örneği.
         System.out.println("Yaşar EREN");
