@@ -1,6 +1,6 @@
 package com.turkcell;
 
-public class sartkosulbloklari {
+public class Hafta_1_3_sartkosulbloklari {
     public static void main(String[] args) {
         int  yas = 19;
         // Yaş 18'den büyükse ekrana kişi reşit yazsın değilse değil yazsın.
