@@ -1,6 +1,6 @@
 package com.turkcell;
 
-public class operatorler {
+public class Hafta_1_2_operatorler {
     public static void main(String[] args) {
         //Aritmetik Operatörler
         System.out.println(10 + 10); // Toplama işlemi
