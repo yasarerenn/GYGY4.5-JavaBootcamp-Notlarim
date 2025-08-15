@@ -1,6 +1,6 @@
 package com.turkcell;
 
-public class Hafta_1_5_Loops {
+public class Hafta_1_4_Loops {
     public static void main(String[] args) {
         // iterasyon kodun birden fazla kez çalıştırılmasına denir.
         // Döngüler iterasyon yapılmasını sağlar.
@@ -65,3 +65,4 @@ public class Hafta_1_5_Loops {
         }
     }
 }
+
